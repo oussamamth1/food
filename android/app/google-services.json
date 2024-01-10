@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720243327127",
+    "firebase_url": "https://fitfood-e9d65-default-rtdb.firebaseio.com",
+    "project_id": "fitfood-e9d65",
+    "storage_bucket": "fitfood-e9d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720243327127:android:640117f28b559fbface9d2",
+        "android_client_info": {
+          "package_name": "com.aliret.fitfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720243327127-ipos27c4rqesb83ku5lgk9osvdflckpc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOQ3EVHoexaTDHEc-Aq8B1Djl6FkT5QF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720243327127-ipos27c4rqesb83ku5lgk9osvdflckpc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
